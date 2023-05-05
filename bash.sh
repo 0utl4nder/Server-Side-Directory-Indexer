@@ -14,7 +14,7 @@ echo "Content-type: text/html"
 echo ""
 echo "<html>"
 echo "<head>"
-echo "<title>Home Server Indexer</title>"
+echo "<title>Server Indexer</title>"
 echo "</head>"
 echo "<body>"
 list_directory
