@@ -5,8 +5,8 @@
 
 > NOTE 
 > > *This exists because I wanted to store and publish my personal projects .*
-> > * 🕯️ Stands for scripts tested on environment *test* only.
-> > * 💡 Stands for scripts tested on **small** *production* environments.
+> > * 🕯️ Stands for scripts used on environment *test* only.
+> > * 💡 Stands for scripts used on **small** *production* environments.
 
 
 ### 📔 To-do
@@ -23,4 +23,4 @@
 
 | 🗣️ | 🕯️/💡 |
 |--|--|
-| 🐧 | 💡 |
+| 🐧 | 🕯️ & 💡 |
