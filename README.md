@@ -15,7 +15,7 @@
  - [ ] 🔎 Add more indexs formats (not only .html)
  - [ ] ⛵ Increase depth to recursive
  - [ ] 🐍 Python Script
- - [ ] 📯 Vanilla JavaScript Script
+ - [ ] 📯 NodeJS Script
  - [ ] 🐘 PHP Script 
  - [ ] 🐹 Go Script
 
