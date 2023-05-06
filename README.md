@@ -22,10 +22,10 @@
 ###  📔 To-do
 
   
--  [x] 🐧 Bash Script
+- [x] 🐧 Bash Script
 - [ ] 🔎 Add more indexs formats (not only .html)
 - [ ] ⛵ Increase depth to recursive
-- [ ] 🐍 Python Script
+- [x] 🐍 Python Script
 - [ ] 📯 NodeJS Script
 - [X] 🐘 PHP Script
 - [ ] 🐹 Go Script
@@ -39,3 +39,4 @@
 |--|--|
 | 🐧 | 🕯️ & 💡 |
 | 🐘 | 🕯️  |
+| 🐍 | 🕯️  |
