@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function list_directory {
+function indexer {
     dir_list=($(ls -d */))
 
     for item in ${dir_list[@]}; do
@@ -17,7 +17,7 @@ echo "<head>"
 echo "<title>Server Indexer BASH</title>"
 echo "</head>"
 echo "<body>"
-list_directory
+indexer
 echo "</body>"
 echo "</html>"
 # By 0utl4nder https://github.com/0utl4nder
